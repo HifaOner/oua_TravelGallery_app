@@ -20,6 +20,6 @@ class MyApp extends StatelessWidget {
               seedColor: Color.fromARGB(255, 170, 165, 179)),
           useMaterial3: true,
         ),
-        home: const Home());
+        home: const BottomNav());
   }
 }
