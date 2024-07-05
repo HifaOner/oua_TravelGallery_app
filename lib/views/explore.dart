@@ -96,7 +96,7 @@ class _ExploreState extends State<Explore> {
             SizedBox(
               height: 20.0,
             ),
-           
+            Expanded(child: wallpaper(photos, context))
           ],
         ),
       ),
