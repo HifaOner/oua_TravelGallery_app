@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595148151100",
+    "project_id": "travel-gallery-f717a",
+    "storage_bucket": "travel-gallery-f717a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595148151100:android:adc13657631984d0342639",
+        "android_client_info": {
+          "package_name": "com.example.travel_gallery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZFfIAB4Wxx9q4z6K2KbOAzxBTSqx8Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

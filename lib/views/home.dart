@@ -51,7 +51,7 @@ class _HomeState extends State<Home> {
                       SizedBox(width: 80.0),
                       Center(
                         child: Text(
-                          "Traveller",
+                          "Welcome!",
                           style: TextStyle(
                               color: Colors.black,
                               fontSize: 28.0,
